@@ -11,7 +11,9 @@
 2. 有使用到 hugging face 的開源模型，要登入帳號。(Access Tokens)
 3. 此專案使用 Python = 3.10
 3. 建議**創建虛擬環境**並下載相關依賴包 `pip install -r requirements.txt`，並使用以下指令運行 `python main.py`。
-4. 可於網址輸入 `http://localhost:8000/docs` 進入 fastapi 提供的互動式 api 文件，進行 api 測試。
+4. 可於網址輸入 `http://localhost:8000/docs` 進入 fastapi 提供的互動式 api 文件，進行 api 測試。  
+5. 範例輸出 : 
+![範例圖片](example.png)
 
 ## 資料夾結構
 
